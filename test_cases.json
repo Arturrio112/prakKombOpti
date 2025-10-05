@@ -1,0 +1,2732 @@
+{
+  "cases": [
+    {
+      "airplanes": [
+        {
+          "id": 0,
+          "arrival": "07:05",
+          "size": "medium"
+        },
+        {
+          "id": 1,
+          "arrival": "07:12",
+          "size": "medium"
+        },
+        {
+          "id": 2,
+          "arrival": "07:13",
+          "size": "medium"
+        },
+        {
+          "id": 3,
+          "arrival": "07:18",
+          "size": "medium"
+        },
+        {
+          "id": 4,
+          "arrival": "07:20",
+          "size": "small"
+        },
+        {
+          "id": 5,
+          "arrival": "07:20",
+          "size": "small"
+        },
+        {
+          "id": 6,
+          "arrival": "07:23",
+          "size": "medium"
+        },
+        {
+          "id": 7,
+          "arrival": "07:30",
+          "size": "large"
+        },
+        {
+          "id": 8,
+          "arrival": "07:31",
+          "size": "large"
+        },
+        {
+          "id": 9,
+          "arrival": "07:38",
+          "size": "small"
+        },
+        {
+          "id": 10,
+          "arrival": "07:40",
+          "size": "large"
+        },
+        {
+          "id": 11,
+          "arrival": "07:40",
+          "size": "medium"
+        },
+        {
+          "id": 12,
+          "arrival": "07:40",
+          "size": "large"
+        },
+        {
+          "id": 13,
+          "arrival": "07:44",
+          "size": "small"
+        },
+        {
+          "id": 14,
+          "arrival": "07:48",
+          "size": "medium"
+        },
+        {
+          "id": 15,
+          "arrival": "07:57",
+          "size": "small"
+        },
+        {
+          "id": 16,
+          "arrival": "07:59",
+          "size": "medium"
+        },
+        {
+          "id": 17,
+          "arrival": "08:05",
+          "size": "small"
+        },
+        {
+          "id": 18,
+          "arrival": "08:14",
+          "size": "large"
+        },
+        {
+          "id": 19,
+          "arrival": "08:16",
+          "size": "small"
+        },
+        {
+          "id": 20,
+          "arrival": "08:24",
+          "size": "small"
+        },
+        {
+          "id": 21,
+          "arrival": "08:34",
+          "size": "medium"
+        },
+        {
+          "id": 22,
+          "arrival": "08:38",
+          "size": "medium"
+        },
+        {
+          "id": 23,
+          "arrival": "08:40",
+          "size": "large"
+        },
+        {
+          "id": 24,
+          "arrival": "08:41",
+          "size": "small"
+        },
+        {
+          "id": 25,
+          "arrival": "08:49",
+          "size": "medium"
+        },
+        {
+          "id": 26,
+          "arrival": "08:50",
+          "size": "small"
+        },
+        {
+          "id": 27,
+          "arrival": "08:57",
+          "size": "small"
+        },
+        {
+          "id": 28,
+          "arrival": "08:57",
+          "size": "small"
+        },
+        {
+          "id": 29,
+          "arrival": "09:05",
+          "size": "large"
+        },
+        {
+          "id": 30,
+          "arrival": "09:07",
+          "size": "large"
+        },
+        {
+          "id": 31,
+          "arrival": "09:16",
+          "size": "medium"
+        },
+        {
+          "id": 32,
+          "arrival": "09:20",
+          "size": "small"
+        },
+        {
+          "id": 33,
+          "arrival": "09:23",
+          "size": "large"
+        },
+        {
+          "id": 34,
+          "arrival": "09:33",
+          "size": "medium"
+        },
+        {
+          "id": 35,
+          "arrival": "09:42",
+          "size": "medium"
+        },
+        {
+          "id": 36,
+          "arrival": "09:48",
+          "size": "large"
+        },
+        {
+          "id": 37,
+          "arrival": "09:53",
+          "size": "medium"
+        },
+        {
+          "id": 38,
+          "arrival": "09:54",
+          "size": "medium"
+        },
+        {
+          "id": 39,
+          "arrival": "09:54",
+          "size": "medium"
+        },
+        {
+          "id": 40,
+          "arrival": "10:01",
+          "size": "medium"
+        },
+        {
+          "id": 41,
+          "arrival": "10:11",
+          "size": "large"
+        },
+        {
+          "id": 42,
+          "arrival": "10:19",
+          "size": "medium"
+        },
+        {
+          "id": 43,
+          "arrival": "10:25",
+          "size": "small"
+        },
+        {
+          "id": 44,
+          "arrival": "10:33",
+          "size": "small"
+        },
+        {
+          "id": 45,
+          "arrival": "10:34",
+          "size": "medium"
+        },
+        {
+          "id": 46,
+          "arrival": "10:39",
+          "size": "medium"
+        },
+        {
+          "id": 47,
+          "arrival": "10:43",
+          "size": "small"
+        },
+        {
+          "id": 48,
+          "arrival": "10:48",
+          "size": "large"
+        },
+        {
+          "id": 49,
+          "arrival": "10:49",
+          "size": "medium"
+        },
+        {
+          "id": 50,
+          "arrival": "10:49",
+          "size": "large"
+        },
+        {
+          "id": 51,
+          "arrival": "10:51",
+          "size": "small"
+        },
+        {
+          "id": 52,
+          "arrival": "10:53",
+          "size": "large"
+        },
+        {
+          "id": 53,
+          "arrival": "10:54",
+          "size": "small"
+        },
+        {
+          "id": 54,
+          "arrival": "10:55",
+          "size": "small"
+        },
+        {
+          "id": 55,
+          "arrival": "10:59",
+          "size": "small"
+        },
+        {
+          "id": 56,
+          "arrival": "11:06",
+          "size": "small"
+        },
+        {
+          "id": 57,
+          "arrival": "11:16",
+          "size": "medium"
+        },
+        {
+          "id": 58,
+          "arrival": "11:26",
+          "size": "small"
+        },
+        {
+          "id": 59,
+          "arrival": "11:26",
+          "size": "large"
+        },
+        {
+          "id": 60,
+          "arrival": "11:26",
+          "size": "large"
+        },
+        {
+          "id": 61,
+          "arrival": "11:30",
+          "size": "medium"
+        },
+        {
+          "id": 62,
+          "arrival": "11:37",
+          "size": "small"
+        },
+        {
+          "id": 63,
+          "arrival": "11:41",
+          "size": "medium"
+        },
+        {
+          "id": 64,
+          "arrival": "11:42",
+          "size": "medium"
+        },
+        {
+          "id": 65,
+          "arrival": "11:52",
+          "size": "large"
+        },
+        {
+          "id": 66,
+          "arrival": "12:02",
+          "size": "large"
+        },
+        {
+          "id": 67,
+          "arrival": "12:08",
+          "size": "large"
+        },
+        {
+          "id": 68,
+          "arrival": "12:14",
+          "size": "small"
+        },
+        {
+          "id": 69,
+          "arrival": "12:24",
+          "size": "large"
+        },
+        {
+          "id": 70,
+          "arrival": "12:34",
+          "size": "small"
+        },
+        {
+          "id": 71,
+          "arrival": "12:38",
+          "size": "medium"
+        },
+        {
+          "id": 72,
+          "arrival": "12:45",
+          "size": "medium"
+        },
+        {
+          "id": 73,
+          "arrival": "12:52",
+          "size": "small"
+        },
+        {
+          "id": 74,
+          "arrival": "12:52",
+          "size": "medium"
+        },
+        {
+          "id": 75,
+          "arrival": "12:59",
+          "size": "medium"
+        },
+        {
+          "id": 76,
+          "arrival": "13:05",
+          "size": "medium"
+        },
+        {
+          "id": 77,
+          "arrival": "13:12",
+          "size": "medium"
+        },
+        {
+          "id": 78,
+          "arrival": "13:19",
+          "size": "large"
+        },
+        {
+          "id": 79,
+          "arrival": "13:20",
+          "size": "small"
+        },
+        {
+          "id": 80,
+          "arrival": "13:21",
+          "size": "small"
+        },
+        {
+          "id": 81,
+          "arrival": "13:28",
+          "size": "small"
+        },
+        {
+          "id": 82,
+          "arrival": "13:34",
+          "size": "medium"
+        },
+        {
+          "id": 83,
+          "arrival": "13:39",
+          "size": "small"
+        },
+        {
+          "id": 84,
+          "arrival": "13:39",
+          "size": "large"
+        },
+        {
+          "id": 85,
+          "arrival": "13:39",
+          "size": "small"
+        },
+        {
+          "id": 86,
+          "arrival": "13:40",
+          "size": "large"
+        },
+        {
+          "id": 87,
+          "arrival": "13:43",
+          "size": "medium"
+        },
+        {
+          "id": 88,
+          "arrival": "13:45",
+          "size": "medium"
+        },
+        {
+          "id": 89,
+          "arrival": "13:54",
+          "size": "small"
+        },
+        {
+          "id": 90,
+          "arrival": "13:54",
+          "size": "small"
+        },
+        {
+          "id": 91,
+          "arrival": "14:02",
+          "size": "small"
+        },
+        {
+          "id": 92,
+          "arrival": "14:11",
+          "size": "large"
+        },
+        {
+          "id": 93,
+          "arrival": "14:12",
+          "size": "small"
+        },
+        {
+          "id": 94,
+          "arrival": "14:19",
+          "size": "small"
+        },
+        {
+          "id": 95,
+          "arrival": "14:29",
+          "size": "medium"
+        },
+        {
+          "id": 96,
+          "arrival": "14:37",
+          "size": "medium"
+        },
+        {
+          "id": 97,
+          "arrival": "14:41",
+          "size": "medium"
+        },
+        {
+          "id": 98,
+          "arrival": "14:48",
+          "size": "large"
+        },
+        {
+          "id": 99,
+          "arrival": "14:49",
+          "size": "small"
+        }
+      ],
+      "runways": [
+        {
+          "id": 0,
+          "service_time": 10,
+          "allowed_sizes": [
+            "medium"
+          ]
+        },
+        {
+          "id": 1,
+          "service_time": 11,
+          "allowed_sizes": [
+            "large",
+            "medium",
+            "small"
+          ]
+        },
+        {
+          "id": 2,
+          "service_time": 5,
+          "allowed_sizes": [
+            "large",
+            "medium",
+            "small"
+          ]
+        },
+        {
+          "id": 3,
+          "service_time": 10,
+          "allowed_sizes": [
+            "medium"
+          ]
+        },
+        {
+          "id": 4,
+          "service_time": 11,
+          "allowed_sizes": [
+            "medium"
+          ]
+        }
+      ]
+    },
+    {
+      "airplanes": [
+        {
+          "id": 0,
+          "arrival": "07:02",
+          "size": "small"
+        },
+        {
+          "id": 1,
+          "arrival": "07:08",
+          "size": "medium"
+        },
+        {
+          "id": 2,
+          "arrival": "07:10",
+          "size": "large"
+        },
+        {
+          "id": 3,
+          "arrival": "07:12",
+          "size": "medium"
+        },
+        {
+          "id": 4,
+          "arrival": "07:19",
+          "size": "large"
+        },
+        {
+          "id": 5,
+          "arrival": "07:21",
+          "size": "medium"
+        },
+        {
+          "id": 6,
+          "arrival": "07:25",
+          "size": "medium"
+        },
+        {
+          "id": 7,
+          "arrival": "07:34",
+          "size": "medium"
+        },
+        {
+          "id": 8,
+          "arrival": "07:42",
+          "size": "small"
+        },
+        {
+          "id": 9,
+          "arrival": "07:43",
+          "size": "small"
+        },
+        {
+          "id": 10,
+          "arrival": "07:49",
+          "size": "large"
+        },
+        {
+          "id": 11,
+          "arrival": "07:52",
+          "size": "small"
+        },
+        {
+          "id": 12,
+          "arrival": "07:52",
+          "size": "medium"
+        },
+        {
+          "id": 13,
+          "arrival": "08:00",
+          "size": "large"
+        },
+        {
+          "id": 14,
+          "arrival": "08:00",
+          "size": "medium"
+        },
+        {
+          "id": 15,
+          "arrival": "08:04",
+          "size": "large"
+        },
+        {
+          "id": 16,
+          "arrival": "08:12",
+          "size": "small"
+        },
+        {
+          "id": 17,
+          "arrival": "08:17",
+          "size": "medium"
+        },
+        {
+          "id": 18,
+          "arrival": "08:17",
+          "size": "large"
+        },
+        {
+          "id": 19,
+          "arrival": "08:27",
+          "size": "medium"
+        },
+        {
+          "id": 20,
+          "arrival": "08:30",
+          "size": "small"
+        },
+        {
+          "id": 21,
+          "arrival": "08:36",
+          "size": "medium"
+        },
+        {
+          "id": 22,
+          "arrival": "08:38",
+          "size": "medium"
+        },
+        {
+          "id": 23,
+          "arrival": "08:47",
+          "size": "large"
+        },
+        {
+          "id": 24,
+          "arrival": "08:56",
+          "size": "small"
+        },
+        {
+          "id": 25,
+          "arrival": "09:01",
+          "size": "medium"
+        },
+        {
+          "id": 26,
+          "arrival": "09:10",
+          "size": "large"
+        },
+        {
+          "id": 27,
+          "arrival": "09:14",
+          "size": "small"
+        },
+        {
+          "id": 28,
+          "arrival": "09:22",
+          "size": "small"
+        },
+        {
+          "id": 29,
+          "arrival": "09:22",
+          "size": "large"
+        },
+        {
+          "id": 30,
+          "arrival": "09:29",
+          "size": "medium"
+        },
+        {
+          "id": 31,
+          "arrival": "09:32",
+          "size": "small"
+        },
+        {
+          "id": 32,
+          "arrival": "09:39",
+          "size": "small"
+        },
+        {
+          "id": 33,
+          "arrival": "09:43",
+          "size": "small"
+        },
+        {
+          "id": 34,
+          "arrival": "09:45",
+          "size": "large"
+        },
+        {
+          "id": 35,
+          "arrival": "09:54",
+          "size": "large"
+        },
+        {
+          "id": 36,
+          "arrival": "10:04",
+          "size": "large"
+        },
+        {
+          "id": 37,
+          "arrival": "10:08",
+          "size": "medium"
+        },
+        {
+          "id": 38,
+          "arrival": "10:14",
+          "size": "small"
+        },
+        {
+          "id": 39,
+          "arrival": "10:21",
+          "size": "medium"
+        },
+        {
+          "id": 40,
+          "arrival": "10:31",
+          "size": "medium"
+        },
+        {
+          "id": 41,
+          "arrival": "10:31",
+          "size": "large"
+        },
+        {
+          "id": 42,
+          "arrival": "10:31",
+          "size": "small"
+        },
+        {
+          "id": 43,
+          "arrival": "10:35",
+          "size": "large"
+        },
+        {
+          "id": 44,
+          "arrival": "10:42",
+          "size": "medium"
+        },
+        {
+          "id": 45,
+          "arrival": "10:44",
+          "size": "medium"
+        },
+        {
+          "id": 46,
+          "arrival": "10:54",
+          "size": "medium"
+        },
+        {
+          "id": 47,
+          "arrival": "11:03",
+          "size": "medium"
+        },
+        {
+          "id": 48,
+          "arrival": "11:06",
+          "size": "small"
+        },
+        {
+          "id": 49,
+          "arrival": "11:16",
+          "size": "small"
+        },
+        {
+          "id": 50,
+          "arrival": "11:24",
+          "size": "large"
+        },
+        {
+          "id": 51,
+          "arrival": "11:25",
+          "size": "large"
+        },
+        {
+          "id": 52,
+          "arrival": "11:35",
+          "size": "small"
+        },
+        {
+          "id": 53,
+          "arrival": "11:39",
+          "size": "small"
+        },
+        {
+          "id": 54,
+          "arrival": "11:41",
+          "size": "medium"
+        },
+        {
+          "id": 55,
+          "arrival": "11:50",
+          "size": "small"
+        },
+        {
+          "id": 56,
+          "arrival": "11:56",
+          "size": "small"
+        },
+        {
+          "id": 57,
+          "arrival": "12:02",
+          "size": "small"
+        },
+        {
+          "id": 58,
+          "arrival": "12:03",
+          "size": "medium"
+        },
+        {
+          "id": 59,
+          "arrival": "12:08",
+          "size": "small"
+        },
+        {
+          "id": 60,
+          "arrival": "12:08",
+          "size": "medium"
+        },
+        {
+          "id": 61,
+          "arrival": "12:08",
+          "size": "small"
+        },
+        {
+          "id": 62,
+          "arrival": "12:12",
+          "size": "small"
+        },
+        {
+          "id": 63,
+          "arrival": "12:18",
+          "size": "small"
+        },
+        {
+          "id": 64,
+          "arrival": "12:18",
+          "size": "medium"
+        },
+        {
+          "id": 65,
+          "arrival": "12:20",
+          "size": "small"
+        },
+        {
+          "id": 66,
+          "arrival": "12:24",
+          "size": "small"
+        },
+        {
+          "id": 67,
+          "arrival": "12:32",
+          "size": "large"
+        },
+        {
+          "id": 68,
+          "arrival": "12:34",
+          "size": "medium"
+        },
+        {
+          "id": 69,
+          "arrival": "12:34",
+          "size": "medium"
+        },
+        {
+          "id": 70,
+          "arrival": "12:43",
+          "size": "medium"
+        },
+        {
+          "id": 71,
+          "arrival": "12:48",
+          "size": "large"
+        },
+        {
+          "id": 72,
+          "arrival": "12:50",
+          "size": "medium"
+        },
+        {
+          "id": 73,
+          "arrival": "12:54",
+          "size": "small"
+        },
+        {
+          "id": 74,
+          "arrival": "13:03",
+          "size": "medium"
+        },
+        {
+          "id": 75,
+          "arrival": "13:11",
+          "size": "large"
+        },
+        {
+          "id": 76,
+          "arrival": "13:20",
+          "size": "medium"
+        },
+        {
+          "id": 77,
+          "arrival": "13:22",
+          "size": "large"
+        },
+        {
+          "id": 78,
+          "arrival": "13:30",
+          "size": "large"
+        },
+        {
+          "id": 79,
+          "arrival": "13:38",
+          "size": "medium"
+        },
+        {
+          "id": 80,
+          "arrival": "13:39",
+          "size": "medium"
+        },
+        {
+          "id": 81,
+          "arrival": "13:46",
+          "size": "small"
+        },
+        {
+          "id": 82,
+          "arrival": "13:56",
+          "size": "medium"
+        },
+        {
+          "id": 83,
+          "arrival": "14:01",
+          "size": "medium"
+        },
+        {
+          "id": 84,
+          "arrival": "14:06",
+          "size": "medium"
+        },
+        {
+          "id": 85,
+          "arrival": "14:16",
+          "size": "medium"
+        },
+        {
+          "id": 86,
+          "arrival": "14:22",
+          "size": "small"
+        },
+        {
+          "id": 87,
+          "arrival": "14:28",
+          "size": "small"
+        },
+        {
+          "id": 88,
+          "arrival": "14:32",
+          "size": "large"
+        },
+        {
+          "id": 89,
+          "arrival": "14:36",
+          "size": "medium"
+        },
+        {
+          "id": 90,
+          "arrival": "14:41",
+          "size": "medium"
+        },
+        {
+          "id": 91,
+          "arrival": "14:43",
+          "size": "small"
+        },
+        {
+          "id": 92,
+          "arrival": "14:48",
+          "size": "small"
+        },
+        {
+          "id": 93,
+          "arrival": "14:51",
+          "size": "medium"
+        },
+        {
+          "id": 94,
+          "arrival": "15:01",
+          "size": "large"
+        },
+        {
+          "id": 95,
+          "arrival": "15:11",
+          "size": "small"
+        },
+        {
+          "id": 96,
+          "arrival": "15:12",
+          "size": "large"
+        },
+        {
+          "id": 97,
+          "arrival": "15:13",
+          "size": "small"
+        },
+        {
+          "id": 98,
+          "arrival": "15:13",
+          "size": "small"
+        },
+        {
+          "id": 99,
+          "arrival": "15:21",
+          "size": "medium"
+        }
+      ],
+      "runways": [
+        {
+          "id": 0,
+          "service_time": 8,
+          "allowed_sizes": [
+            "large"
+          ]
+        },
+        {
+          "id": 1,
+          "service_time": 10,
+          "allowed_sizes": [
+            "small"
+          ]
+        },
+        {
+          "id": 2,
+          "service_time": 10,
+          "allowed_sizes": [
+            "large",
+            "small",
+            "medium"
+          ]
+        },
+        {
+          "id": 3,
+          "service_time": 8,
+          "allowed_sizes": [
+            "medium"
+          ]
+        },
+        {
+          "id": 4,
+          "service_time": 5,
+          "allowed_sizes": [
+            "large"
+          ]
+        }
+      ]
+    },
+    {
+      "airplanes": [
+        {
+          "id": 0,
+          "arrival": "10:04",
+          "size": "small"
+        },
+        {
+          "id": 1,
+          "arrival": "10:05",
+          "size": "large"
+        },
+        {
+          "id": 2,
+          "arrival": "10:14",
+          "size": "small"
+        },
+        {
+          "id": 3,
+          "arrival": "10:23",
+          "size": "small"
+        },
+        {
+          "id": 4,
+          "arrival": "10:30",
+          "size": "medium"
+        },
+        {
+          "id": 5,
+          "arrival": "10:40",
+          "size": "medium"
+        },
+        {
+          "id": 6,
+          "arrival": "10:42",
+          "size": "medium"
+        },
+        {
+          "id": 7,
+          "arrival": "10:46",
+          "size": "large"
+        },
+        {
+          "id": 8,
+          "arrival": "10:52",
+          "size": "medium"
+        },
+        {
+          "id": 9,
+          "arrival": "10:57",
+          "size": "medium"
+        },
+        {
+          "id": 10,
+          "arrival": "10:59",
+          "size": "large"
+        },
+        {
+          "id": 11,
+          "arrival": "10:59",
+          "size": "small"
+        },
+        {
+          "id": 12,
+          "arrival": "11:06",
+          "size": "small"
+        },
+        {
+          "id": 13,
+          "arrival": "11:12",
+          "size": "small"
+        },
+        {
+          "id": 14,
+          "arrival": "11:16",
+          "size": "large"
+        },
+        {
+          "id": 15,
+          "arrival": "11:26",
+          "size": "small"
+        },
+        {
+          "id": 16,
+          "arrival": "11:31",
+          "size": "medium"
+        },
+        {
+          "id": 17,
+          "arrival": "11:38",
+          "size": "large"
+        },
+        {
+          "id": 18,
+          "arrival": "11:48",
+          "size": "small"
+        },
+        {
+          "id": 19,
+          "arrival": "11:48",
+          "size": "medium"
+        },
+        {
+          "id": 20,
+          "arrival": "11:49",
+          "size": "large"
+        },
+        {
+          "id": 21,
+          "arrival": "11:58",
+          "size": "large"
+        },
+        {
+          "id": 22,
+          "arrival": "12:05",
+          "size": "small"
+        },
+        {
+          "id": 23,
+          "arrival": "12:08",
+          "size": "small"
+        },
+        {
+          "id": 24,
+          "arrival": "12:09",
+          "size": "medium"
+        },
+        {
+          "id": 25,
+          "arrival": "12:13",
+          "size": "small"
+        },
+        {
+          "id": 26,
+          "arrival": "12:20",
+          "size": "large"
+        },
+        {
+          "id": 27,
+          "arrival": "12:29",
+          "size": "small"
+        },
+        {
+          "id": 28,
+          "arrival": "12:29",
+          "size": "medium"
+        },
+        {
+          "id": 29,
+          "arrival": "12:36",
+          "size": "small"
+        },
+        {
+          "id": 30,
+          "arrival": "12:42",
+          "size": "small"
+        },
+        {
+          "id": 31,
+          "arrival": "12:47",
+          "size": "medium"
+        },
+        {
+          "id": 32,
+          "arrival": "12:47",
+          "size": "small"
+        },
+        {
+          "id": 33,
+          "arrival": "12:48",
+          "size": "large"
+        },
+        {
+          "id": 34,
+          "arrival": "12:50",
+          "size": "small"
+        },
+        {
+          "id": 35,
+          "arrival": "12:58",
+          "size": "large"
+        },
+        {
+          "id": 36,
+          "arrival": "13:03",
+          "size": "medium"
+        },
+        {
+          "id": 37,
+          "arrival": "13:11",
+          "size": "large"
+        },
+        {
+          "id": 38,
+          "arrival": "13:14",
+          "size": "small"
+        },
+        {
+          "id": 39,
+          "arrival": "13:18",
+          "size": "large"
+        },
+        {
+          "id": 40,
+          "arrival": "13:20",
+          "size": "large"
+        },
+        {
+          "id": 41,
+          "arrival": "13:24",
+          "size": "small"
+        },
+        {
+          "id": 42,
+          "arrival": "13:34",
+          "size": "medium"
+        },
+        {
+          "id": 43,
+          "arrival": "13:38",
+          "size": "large"
+        },
+        {
+          "id": 44,
+          "arrival": "13:42",
+          "size": "large"
+        },
+        {
+          "id": 45,
+          "arrival": "13:52",
+          "size": "medium"
+        },
+        {
+          "id": 46,
+          "arrival": "13:52",
+          "size": "large"
+        },
+        {
+          "id": 47,
+          "arrival": "14:00",
+          "size": "large"
+        },
+        {
+          "id": 48,
+          "arrival": "14:06",
+          "size": "small"
+        },
+        {
+          "id": 49,
+          "arrival": "14:13",
+          "size": "large"
+        },
+        {
+          "id": 50,
+          "arrival": "14:17",
+          "size": "small"
+        },
+        {
+          "id": 51,
+          "arrival": "14:22",
+          "size": "large"
+        },
+        {
+          "id": 52,
+          "arrival": "14:27",
+          "size": "medium"
+        },
+        {
+          "id": 53,
+          "arrival": "14:29",
+          "size": "large"
+        },
+        {
+          "id": 54,
+          "arrival": "14:35",
+          "size": "large"
+        },
+        {
+          "id": 55,
+          "arrival": "14:40",
+          "size": "small"
+        },
+        {
+          "id": 56,
+          "arrival": "14:46",
+          "size": "large"
+        },
+        {
+          "id": 57,
+          "arrival": "14:51",
+          "size": "large"
+        },
+        {
+          "id": 58,
+          "arrival": "14:57",
+          "size": "large"
+        },
+        {
+          "id": 59,
+          "arrival": "15:02",
+          "size": "medium"
+        },
+        {
+          "id": 60,
+          "arrival": "15:11",
+          "size": "small"
+        },
+        {
+          "id": 61,
+          "arrival": "15:13",
+          "size": "large"
+        },
+        {
+          "id": 62,
+          "arrival": "15:19",
+          "size": "small"
+        },
+        {
+          "id": 63,
+          "arrival": "15:20",
+          "size": "small"
+        },
+        {
+          "id": 64,
+          "arrival": "15:29",
+          "size": "large"
+        },
+        {
+          "id": 65,
+          "arrival": "15:39",
+          "size": "medium"
+        },
+        {
+          "id": 66,
+          "arrival": "15:42",
+          "size": "large"
+        },
+        {
+          "id": 67,
+          "arrival": "15:51",
+          "size": "small"
+        },
+        {
+          "id": 68,
+          "arrival": "15:53",
+          "size": "medium"
+        },
+        {
+          "id": 69,
+          "arrival": "15:57",
+          "size": "large"
+        },
+        {
+          "id": 70,
+          "arrival": "15:57",
+          "size": "small"
+        },
+        {
+          "id": 71,
+          "arrival": "16:06",
+          "size": "large"
+        },
+        {
+          "id": 72,
+          "arrival": "16:12",
+          "size": "small"
+        },
+        {
+          "id": 73,
+          "arrival": "16:20",
+          "size": "medium"
+        },
+        {
+          "id": 74,
+          "arrival": "16:20",
+          "size": "large"
+        },
+        {
+          "id": 75,
+          "arrival": "16:24",
+          "size": "medium"
+        },
+        {
+          "id": 76,
+          "arrival": "16:24",
+          "size": "large"
+        },
+        {
+          "id": 77,
+          "arrival": "16:34",
+          "size": "small"
+        },
+        {
+          "id": 78,
+          "arrival": "16:38",
+          "size": "large"
+        },
+        {
+          "id": 79,
+          "arrival": "16:39",
+          "size": "small"
+        },
+        {
+          "id": 80,
+          "arrival": "16:45",
+          "size": "large"
+        },
+        {
+          "id": 81,
+          "arrival": "16:45",
+          "size": "large"
+        },
+        {
+          "id": 82,
+          "arrival": "16:54",
+          "size": "medium"
+        },
+        {
+          "id": 83,
+          "arrival": "16:56",
+          "size": "medium"
+        },
+        {
+          "id": 84,
+          "arrival": "17:03",
+          "size": "small"
+        },
+        {
+          "id": 85,
+          "arrival": "17:10",
+          "size": "medium"
+        },
+        {
+          "id": 86,
+          "arrival": "17:14",
+          "size": "large"
+        },
+        {
+          "id": 87,
+          "arrival": "17:17",
+          "size": "large"
+        },
+        {
+          "id": 88,
+          "arrival": "17:26",
+          "size": "medium"
+        },
+        {
+          "id": 89,
+          "arrival": "17:35",
+          "size": "small"
+        },
+        {
+          "id": 90,
+          "arrival": "17:42",
+          "size": "large"
+        },
+        {
+          "id": 91,
+          "arrival": "17:49",
+          "size": "medium"
+        },
+        {
+          "id": 92,
+          "arrival": "17:52",
+          "size": "medium"
+        },
+        {
+          "id": 93,
+          "arrival": "17:59",
+          "size": "small"
+        },
+        {
+          "id": 94,
+          "arrival": "17:59",
+          "size": "large"
+        },
+        {
+          "id": 95,
+          "arrival": "17:59",
+          "size": "large"
+        },
+        {
+          "id": 96,
+          "arrival": "18:00",
+          "size": "large"
+        },
+        {
+          "id": 97,
+          "arrival": "18:07",
+          "size": "large"
+        },
+        {
+          "id": 98,
+          "arrival": "18:07",
+          "size": "small"
+        },
+        {
+          "id": 99,
+          "arrival": "18:12",
+          "size": "medium"
+        }
+      ],
+      "runways": [
+        {
+          "id": 0,
+          "service_time": 6,
+          "allowed_sizes": [
+            "small",
+            "large"
+          ]
+        },
+        {
+          "id": 1,
+          "service_time": 11,
+          "allowed_sizes": [
+            "medium"
+          ]
+        },
+        {
+          "id": 2,
+          "service_time": 8,
+          "allowed_sizes": [
+            "small",
+            "large",
+            "medium"
+          ]
+        },
+        {
+          "id": 3,
+          "service_time": 11,
+          "allowed_sizes": [
+            "medium",
+            "large"
+          ]
+        },
+        {
+          "id": 4,
+          "service_time": 9,
+          "allowed_sizes": [
+            "large"
+          ]
+        }
+      ]
+    },
+    {
+      "airplanes": [
+        {
+          "id": 0,
+          "arrival": "11:00",
+          "size": "small"
+        },
+        {
+          "id": 1,
+          "arrival": "11:06",
+          "size": "large"
+        },
+        {
+          "id": 2,
+          "arrival": "11:09",
+          "size": "medium"
+        },
+        {
+          "id": 3,
+          "arrival": "11:13",
+          "size": "small"
+        },
+        {
+          "id": 4,
+          "arrival": "11:19",
+          "size": "medium"
+        },
+        {
+          "id": 5,
+          "arrival": "11:26",
+          "size": "medium"
+        },
+        {
+          "id": 6,
+          "arrival": "11:31",
+          "size": "small"
+        },
+        {
+          "id": 7,
+          "arrival": "11:40",
+          "size": "small"
+        },
+        {
+          "id": 8,
+          "arrival": "11:49",
+          "size": "small"
+        },
+        {
+          "id": 9,
+          "arrival": "11:58",
+          "size": "small"
+        },
+        {
+          "id": 10,
+          "arrival": "12:05",
+          "size": "large"
+        },
+        {
+          "id": 11,
+          "arrival": "12:15",
+          "size": "large"
+        },
+        {
+          "id": 12,
+          "arrival": "12:22",
+          "size": "large"
+        },
+        {
+          "id": 13,
+          "arrival": "12:22",
+          "size": "small"
+        },
+        {
+          "id": 14,
+          "arrival": "12:31",
+          "size": "small"
+        },
+        {
+          "id": 15,
+          "arrival": "12:31",
+          "size": "large"
+        },
+        {
+          "id": 16,
+          "arrival": "12:34",
+          "size": "large"
+        },
+        {
+          "id": 17,
+          "arrival": "12:35",
+          "size": "medium"
+        },
+        {
+          "id": 18,
+          "arrival": "12:45",
+          "size": "medium"
+        },
+        {
+          "id": 19,
+          "arrival": "12:48",
+          "size": "medium"
+        },
+        {
+          "id": 20,
+          "arrival": "12:55",
+          "size": "medium"
+        },
+        {
+          "id": 21,
+          "arrival": "12:59",
+          "size": "small"
+        },
+        {
+          "id": 22,
+          "arrival": "12:59",
+          "size": "small"
+        },
+        {
+          "id": 23,
+          "arrival": "13:05",
+          "size": "large"
+        },
+        {
+          "id": 24,
+          "arrival": "13:11",
+          "size": "small"
+        },
+        {
+          "id": 25,
+          "arrival": "13:16",
+          "size": "medium"
+        },
+        {
+          "id": 26,
+          "arrival": "13:25",
+          "size": "large"
+        },
+        {
+          "id": 27,
+          "arrival": "13:29",
+          "size": "medium"
+        },
+        {
+          "id": 28,
+          "arrival": "13:29",
+          "size": "medium"
+        },
+        {
+          "id": 29,
+          "arrival": "13:37",
+          "size": "large"
+        },
+        {
+          "id": 30,
+          "arrival": "13:39",
+          "size": "medium"
+        },
+        {
+          "id": 31,
+          "arrival": "13:48",
+          "size": "large"
+        },
+        {
+          "id": 32,
+          "arrival": "13:55",
+          "size": "medium"
+        },
+        {
+          "id": 33,
+          "arrival": "14:05",
+          "size": "large"
+        },
+        {
+          "id": 34,
+          "arrival": "14:05",
+          "size": "medium"
+        },
+        {
+          "id": 35,
+          "arrival": "14:06",
+          "size": "small"
+        },
+        {
+          "id": 36,
+          "arrival": "14:14",
+          "size": "medium"
+        },
+        {
+          "id": 37,
+          "arrival": "14:16",
+          "size": "small"
+        },
+        {
+          "id": 38,
+          "arrival": "14:23",
+          "size": "small"
+        },
+        {
+          "id": 39,
+          "arrival": "14:30",
+          "size": "small"
+        },
+        {
+          "id": 40,
+          "arrival": "14:35",
+          "size": "medium"
+        },
+        {
+          "id": 41,
+          "arrival": "14:38",
+          "size": "medium"
+        },
+        {
+          "id": 42,
+          "arrival": "14:39",
+          "size": "small"
+        },
+        {
+          "id": 43,
+          "arrival": "14:41",
+          "size": "large"
+        },
+        {
+          "id": 44,
+          "arrival": "14:45",
+          "size": "small"
+        },
+        {
+          "id": 45,
+          "arrival": "14:55",
+          "size": "small"
+        },
+        {
+          "id": 46,
+          "arrival": "15:04",
+          "size": "medium"
+        },
+        {
+          "id": 47,
+          "arrival": "15:07",
+          "size": "medium"
+        },
+        {
+          "id": 48,
+          "arrival": "15:17",
+          "size": "large"
+        },
+        {
+          "id": 49,
+          "arrival": "15:21",
+          "size": "small"
+        },
+        {
+          "id": 50,
+          "arrival": "15:30",
+          "size": "large"
+        },
+        {
+          "id": 51,
+          "arrival": "15:34",
+          "size": "large"
+        },
+        {
+          "id": 52,
+          "arrival": "15:41",
+          "size": "medium"
+        },
+        {
+          "id": 53,
+          "arrival": "15:48",
+          "size": "large"
+        },
+        {
+          "id": 54,
+          "arrival": "15:55",
+          "size": "large"
+        },
+        {
+          "id": 55,
+          "arrival": "15:55",
+          "size": "medium"
+        },
+        {
+          "id": 56,
+          "arrival": "15:56",
+          "size": "small"
+        },
+        {
+          "id": 57,
+          "arrival": "16:01",
+          "size": "large"
+        },
+        {
+          "id": 58,
+          "arrival": "16:07",
+          "size": "small"
+        },
+        {
+          "id": 59,
+          "arrival": "16:17",
+          "size": "large"
+        },
+        {
+          "id": 60,
+          "arrival": "16:20",
+          "size": "medium"
+        },
+        {
+          "id": 61,
+          "arrival": "16:30",
+          "size": "small"
+        },
+        {
+          "id": 62,
+          "arrival": "16:35",
+          "size": "medium"
+        },
+        {
+          "id": 63,
+          "arrival": "16:44",
+          "size": "small"
+        },
+        {
+          "id": 64,
+          "arrival": "16:50",
+          "size": "medium"
+        },
+        {
+          "id": 65,
+          "arrival": "16:56",
+          "size": "medium"
+        },
+        {
+          "id": 66,
+          "arrival": "16:58",
+          "size": "small"
+        },
+        {
+          "id": 67,
+          "arrival": "17:06",
+          "size": "medium"
+        },
+        {
+          "id": 68,
+          "arrival": "17:10",
+          "size": "small"
+        },
+        {
+          "id": 69,
+          "arrival": "17:18",
+          "size": "medium"
+        },
+        {
+          "id": 70,
+          "arrival": "17:22",
+          "size": "medium"
+        },
+        {
+          "id": 71,
+          "arrival": "17:31",
+          "size": "small"
+        },
+        {
+          "id": 72,
+          "arrival": "17:35",
+          "size": "large"
+        },
+        {
+          "id": 73,
+          "arrival": "17:38",
+          "size": "medium"
+        },
+        {
+          "id": 74,
+          "arrival": "17:41",
+          "size": "large"
+        },
+        {
+          "id": 75,
+          "arrival": "17:43",
+          "size": "large"
+        },
+        {
+          "id": 76,
+          "arrival": "17:47",
+          "size": "medium"
+        },
+        {
+          "id": 77,
+          "arrival": "17:47",
+          "size": "medium"
+        },
+        {
+          "id": 78,
+          "arrival": "17:55",
+          "size": "medium"
+        },
+        {
+          "id": 79,
+          "arrival": "17:59",
+          "size": "small"
+        },
+        {
+          "id": 80,
+          "arrival": "18:06",
+          "size": "small"
+        },
+        {
+          "id": 81,
+          "arrival": "18:12",
+          "size": "medium"
+        },
+        {
+          "id": 82,
+          "arrival": "18:20",
+          "size": "medium"
+        },
+        {
+          "id": 83,
+          "arrival": "18:21",
+          "size": "large"
+        },
+        {
+          "id": 84,
+          "arrival": "18:31",
+          "size": "small"
+        },
+        {
+          "id": 85,
+          "arrival": "18:37",
+          "size": "small"
+        },
+        {
+          "id": 86,
+          "arrival": "18:39",
+          "size": "medium"
+        },
+        {
+          "id": 87,
+          "arrival": "18:40",
+          "size": "medium"
+        },
+        {
+          "id": 88,
+          "arrival": "18:45",
+          "size": "small"
+        },
+        {
+          "id": 89,
+          "arrival": "18:51",
+          "size": "large"
+        },
+        {
+          "id": 90,
+          "arrival": "18:59",
+          "size": "large"
+        },
+        {
+          "id": 91,
+          "arrival": "19:02",
+          "size": "large"
+        },
+        {
+          "id": 92,
+          "arrival": "19:08",
+          "size": "large"
+        },
+        {
+          "id": 93,
+          "arrival": "19:10",
+          "size": "medium"
+        },
+        {
+          "id": 94,
+          "arrival": "19:10",
+          "size": "small"
+        },
+        {
+          "id": 95,
+          "arrival": "19:16",
+          "size": "small"
+        },
+        {
+          "id": 96,
+          "arrival": "19:16",
+          "size": "large"
+        },
+        {
+          "id": 97,
+          "arrival": "19:26",
+          "size": "large"
+        },
+        {
+          "id": 98,
+          "arrival": "19:36",
+          "size": "large"
+        },
+        {
+          "id": 99,
+          "arrival": "19:46",
+          "size": "large"
+        }
+      ],
+      "runways": [
+        {
+          "id": 0,
+          "service_time": 9,
+          "allowed_sizes": [
+            "medium"
+          ]
+        },
+        {
+          "id": 1,
+          "service_time": 12,
+          "allowed_sizes": [
+            "medium",
+            "small",
+            "large"
+          ]
+        },
+        {
+          "id": 2,
+          "service_time": 10,
+          "allowed_sizes": [
+            "small"
+          ]
+        },
+        {
+          "id": 3,
+          "service_time": 6,
+          "allowed_sizes": [
+            "small",
+            "medium",
+            "large"
+          ]
+        },
+        {
+          "id": 4,
+          "service_time": 6,
+          "allowed_sizes": [
+            "medium",
+            "large",
+            "small"
+          ]
+        }
+      ]
+    },
+    {
+      "airplanes": [
+        {
+          "id": 0,
+          "arrival": "11:03",
+          "size": "large"
+        },
+        {
+          "id": 1,
+          "arrival": "11:07",
+          "size": "small"
+        },
+        {
+          "id": 2,
+          "arrival": "11:07",
+          "size": "medium"
+        },
+        {
+          "id": 3,
+          "arrival": "11:10",
+          "size": "small"
+        },
+        {
+          "id": 4,
+          "arrival": "11:18",
+          "size": "large"
+        },
+        {
+          "id": 5,
+          "arrival": "11:25",
+          "size": "large"
+        },
+        {
+          "id": 6,
+          "arrival": "11:26",
+          "size": "medium"
+        },
+        {
+          "id": 7,
+          "arrival": "11:26",
+          "size": "medium"
+        },
+        {
+          "id": 8,
+          "arrival": "11:30",
+          "size": "medium"
+        },
+        {
+          "id": 9,
+          "arrival": "11:31",
+          "size": "medium"
+        },
+        {
+          "id": 10,
+          "arrival": "11:40",
+          "size": "medium"
+        },
+        {
+          "id": 11,
+          "arrival": "11:49",
+          "size": "medium"
+        },
+        {
+          "id": 12,
+          "arrival": "11:57",
+          "size": "small"
+        },
+        {
+          "id": 13,
+          "arrival": "12:04",
+          "size": "large"
+        },
+        {
+          "id": 14,
+          "arrival": "12:14",
+          "size": "small"
+        },
+        {
+          "id": 15,
+          "arrival": "12:18",
+          "size": "medium"
+        },
+        {
+          "id": 16,
+          "arrival": "12:20",
+          "size": "large"
+        },
+        {
+          "id": 17,
+          "arrival": "12:26",
+          "size": "small"
+        },
+        {
+          "id": 18,
+          "arrival": "12:29",
+          "size": "large"
+        },
+        {
+          "id": 19,
+          "arrival": "12:34",
+          "size": "small"
+        },
+        {
+          "id": 20,
+          "arrival": "12:42",
+          "size": "small"
+        },
+        {
+          "id": 21,
+          "arrival": "12:42",
+          "size": "medium"
+        },
+        {
+          "id": 22,
+          "arrival": "12:48",
+          "size": "medium"
+        },
+        {
+          "id": 23,
+          "arrival": "12:54",
+          "size": "medium"
+        },
+        {
+          "id": 24,
+          "arrival": "12:55",
+          "size": "small"
+        },
+        {
+          "id": 25,
+          "arrival": "13:02",
+          "size": "large"
+        },
+        {
+          "id": 26,
+          "arrival": "13:10",
+          "size": "large"
+        },
+        {
+          "id": 27,
+          "arrival": "13:20",
+          "size": "medium"
+        },
+        {
+          "id": 28,
+          "arrival": "13:23",
+          "size": "small"
+        },
+        {
+          "id": 29,
+          "arrival": "13:26",
+          "size": "small"
+        },
+        {
+          "id": 30,
+          "arrival": "13:32",
+          "size": "large"
+        },
+        {
+          "id": 31,
+          "arrival": "13:32",
+          "size": "small"
+        },
+        {
+          "id": 32,
+          "arrival": "13:35",
+          "size": "large"
+        },
+        {
+          "id": 33,
+          "arrival": "13:37",
+          "size": "medium"
+        },
+        {
+          "id": 34,
+          "arrival": "13:46",
+          "size": "large"
+        },
+        {
+          "id": 35,
+          "arrival": "13:46",
+          "size": "small"
+        },
+        {
+          "id": 36,
+          "arrival": "13:48",
+          "size": "small"
+        },
+        {
+          "id": 37,
+          "arrival": "13:50",
+          "size": "small"
+        },
+        {
+          "id": 38,
+          "arrival": "13:55",
+          "size": "large"
+        },
+        {
+          "id": 39,
+          "arrival": "13:57",
+          "size": "medium"
+        },
+        {
+          "id": 40,
+          "arrival": "14:04",
+          "size": "medium"
+        },
+        {
+          "id": 41,
+          "arrival": "14:13",
+          "size": "small"
+        },
+        {
+          "id": 42,
+          "arrival": "14:20",
+          "size": "small"
+        },
+        {
+          "id": 43,
+          "arrival": "14:28",
+          "size": "small"
+        },
+        {
+          "id": 44,
+          "arrival": "14:32",
+          "size": "large"
+        },
+        {
+          "id": 45,
+          "arrival": "14:34",
+          "size": "small"
+        },
+        {
+          "id": 46,
+          "arrival": "14:40",
+          "size": "large"
+        },
+        {
+          "id": 47,
+          "arrival": "14:41",
+          "size": "small"
+        },
+        {
+          "id": 48,
+          "arrival": "14:49",
+          "size": "small"
+        },
+        {
+          "id": 49,
+          "arrival": "14:49",
+          "size": "large"
+        },
+        {
+          "id": 50,
+          "arrival": "14:59",
+          "size": "small"
+        },
+        {
+          "id": 51,
+          "arrival": "15:04",
+          "size": "large"
+        },
+        {
+          "id": 52,
+          "arrival": "15:05",
+          "size": "small"
+        },
+        {
+          "id": 53,
+          "arrival": "15:11",
+          "size": "medium"
+        },
+        {
+          "id": 54,
+          "arrival": "15:13",
+          "size": "medium"
+        },
+        {
+          "id": 55,
+          "arrival": "15:16",
+          "size": "medium"
+        },
+        {
+          "id": 56,
+          "arrival": "15:26",
+          "size": "large"
+        },
+        {
+          "id": 57,
+          "arrival": "15:29",
+          "size": "large"
+        },
+        {
+          "id": 58,
+          "arrival": "15:35",
+          "size": "medium"
+        },
+        {
+          "id": 59,
+          "arrival": "15:41",
+          "size": "medium"
+        },
+        {
+          "id": 60,
+          "arrival": "15:46",
+          "size": "small"
+        },
+        {
+          "id": 61,
+          "arrival": "15:55",
+          "size": "small"
+        },
+        {
+          "id": 62,
+          "arrival": "15:57",
+          "size": "small"
+        },
+        {
+          "id": 63,
+          "arrival": "15:58",
+          "size": "large"
+        },
+        {
+          "id": 64,
+          "arrival": "16:08",
+          "size": "large"
+        },
+        {
+          "id": 65,
+          "arrival": "16:08",
+          "size": "medium"
+        },
+        {
+          "id": 66,
+          "arrival": "16:11",
+          "size": "medium"
+        },
+        {
+          "id": 67,
+          "arrival": "16:20",
+          "size": "large"
+        },
+        {
+          "id": 68,
+          "arrival": "16:29",
+          "size": "large"
+        },
+        {
+          "id": 69,
+          "arrival": "16:31",
+          "size": "large"
+        },
+        {
+          "id": 70,
+          "arrival": "16:36",
+          "size": "medium"
+        },
+        {
+          "id": 71,
+          "arrival": "16:40",
+          "size": "small"
+        },
+        {
+          "id": 72,
+          "arrival": "16:42",
+          "size": "large"
+        },
+        {
+          "id": 73,
+          "arrival": "16:50",
+          "size": "large"
+        },
+        {
+          "id": 74,
+          "arrival": "16:52",
+          "size": "medium"
+        },
+        {
+          "id": 75,
+          "arrival": "16:57",
+          "size": "small"
+        },
+        {
+          "id": 76,
+          "arrival": "16:57",
+          "size": "large"
+        },
+        {
+          "id": 77,
+          "arrival": "17:01",
+          "size": "medium"
+        },
+        {
+          "id": 78,
+          "arrival": "17:08",
+          "size": "small"
+        },
+        {
+          "id": 79,
+          "arrival": "17:08",
+          "size": "medium"
+        },
+        {
+          "id": 80,
+          "arrival": "17:15",
+          "size": "large"
+        },
+        {
+          "id": 81,
+          "arrival": "17:23",
+          "size": "large"
+        },
+        {
+          "id": 82,
+          "arrival": "17:24",
+          "size": "medium"
+        },
+        {
+          "id": 83,
+          "arrival": "17:26",
+          "size": "medium"
+        },
+        {
+          "id": 84,
+          "arrival": "17:28",
+          "size": "small"
+        },
+        {
+          "id": 85,
+          "arrival": "17:29",
+          "size": "medium"
+        },
+        {
+          "id": 86,
+          "arrival": "17:38",
+          "size": "medium"
+        },
+        {
+          "id": 87,
+          "arrival": "17:46",
+          "size": "medium"
+        },
+        {
+          "id": 88,
+          "arrival": "17:53",
+          "size": "small"
+        },
+        {
+          "id": 89,
+          "arrival": "17:56",
+          "size": "small"
+        },
+        {
+          "id": 90,
+          "arrival": "18:05",
+          "size": "large"
+        },
+        {
+          "id": 91,
+          "arrival": "18:07",
+          "size": "medium"
+        },
+        {
+          "id": 92,
+          "arrival": "18:16",
+          "size": "medium"
+        },
+        {
+          "id": 93,
+          "arrival": "18:25",
+          "size": "medium"
+        },
+        {
+          "id": 94,
+          "arrival": "18:28",
+          "size": "small"
+        },
+        {
+          "id": 95,
+          "arrival": "18:37",
+          "size": "medium"
+        },
+        {
+          "id": 96,
+          "arrival": "18:46",
+          "size": "large"
+        },
+        {
+          "id": 97,
+          "arrival": "18:56",
+          "size": "large"
+        },
+        {
+          "id": 98,
+          "arrival": "18:59",
+          "size": "medium"
+        },
+        {
+          "id": 99,
+          "arrival": "19:06",
+          "size": "large"
+        }
+      ],
+      "runways": [
+        {
+          "id": 0,
+          "service_time": 8,
+          "allowed_sizes": [
+            "large",
+            "medium"
+          ]
+        },
+        {
+          "id": 1,
+          "service_time": 11,
+          "allowed_sizes": [
+            "large",
+            "medium",
+            "small"
+          ]
+        },
+        {
+          "id": 2,
+          "service_time": 11,
+          "allowed_sizes": [
+            "large"
+          ]
+        },
+        {
+          "id": 3,
+          "service_time": 11,
+          "allowed_sizes": [
+            "medium",
+            "small",
+            "large"
+          ]
+        },
+        {
+          "id": 4,
+          "service_time": 11,
+          "allowed_sizes": [
+            "medium",
+            "large",
+            "small"
+          ]
+        }
+      ]
+    }
+  ]
+}
