@@ -123,13 +123,13 @@ if __name__ == "__main__":
         best_solution, best_score = simulated_annealing(airplanes, runways)
         end = time.time()
 
-        # Šo atkomentēt, ja ir velme redzēt kurai lidmašinai, kurš skrejceļš ir piešķirts, kā arī tās ierašanās un apkalpošanas laikus
-        # print("Labākais atrastais risinājums:")
-        # schedule = simulated_schedule(best_solution, airplanes, runways)
-        # for plane_id, (runway_id, start_time, end_time) in schedule.items():
-        #     arrival_str = to_time_str(airplanes[plane_id].arrival)
-        #     print(f"  Lidmašīna {plane_id} (ierašanās {arrival_str})"
-        #           f" -> Skrejceļš {runway_id}, apkalpošana {to_time_str(start_time)}–{to_time_str(end_time)}")
+        # Izdrukā labāko atrasto risinājumu
+        print("Labākais atrastais risinājums:")
+        schedule = simulated_schedule(best_solution, airplanes, runways)
+        for plane_id, (runway_id, start_time, end_time) in schedule.items():
+            arrival_str = to_time_str(airplanes[plane_id].arrival)
+            print(f"  Lidmašīna {plane_id} (ierašanās {arrival_str})"
+                  f" -> Skrejceļš {runway_id}, apkalpošana {to_time_str(start_time)}–{to_time_str(end_time)}")
 
         print("Kopējās izmaksas:", best_score)
         print("Testa izpildes laiks (sek):", round(end - start, 4))
