@@ -49,12 +49,25 @@ def generate_test_cases(num_cases=5, airplanes_per_case=100, runways_per_case=5)
         airplanes = generate_airplanes(airplanes_per_case)
         runways = generate_runways(runways_per_case)
         cases.append({"airplanes": airplanes, "runways": runways})
-    return {"cases": cases}
+    return cases
 
 if __name__ == "__main__":
-    # Ģenerē 5 testus ar 100 lidmašīnām un 5 skrejceļiem katrā
-    test_data = generate_test_cases(num_cases=5, airplanes_per_case=100, runways_per_case=5)
-    with open("test_cases.json", "w", encoding="utf-8") as f:
+    test_configurations = [
+        (5, 10, 3),    # 5 testi ar 10 lidmašīnām un 3 skrejceļiem
+        (5, 50, 3),    # 5 testi ar 50 lidmašīnām un 3 skrejceļiem
+        (5, 100, 5),   # 5 testi ar 100 lidmašīnām un 5 skrejceļiem
+        (3, 200, 8),   # 3 testi ar 200 lidmašīnām un 8 skrejceļiem
+        (2, 500, 10),  # 2 testi ar 500 lidmašīnām un 10 skrejceļiem
+    ]
+
+    all_cases = []
+    for num_cases, airplanes, runways in test_configurations:
+        new_cases = generate_test_cases(num_cases, airplanes, runways)
+        all_cases.extend(new_cases)
+
+    test_data = {"cases": all_cases}
+
+    with open("test_cases2.json", "w", encoding="utf-8") as f:
         json.dump(test_data, f, indent=2, ensure_ascii=False)
 
-    print("Izveidots test_cases.json!")
+    print(f"Izveidots test_cases.json ar {len(all_cases)} testiem!")

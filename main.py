@@ -110,26 +110,26 @@ if __name__ == "__main__":
     # Ielasa testa gadījumus no JSON
     with open("test_cases.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-
     for case_idx, case in enumerate(data["cases"], start=1):
-        print(f"\n=== Testa gadījums {case_idx} ===")
+        for i in range(3): 
+            print(f"\n=== Testa gadījums id:{case_idx} reize:{i+1} ===")
 
-        # Izveido Airplane un Runway objektus
-        airplanes = [Airplane(a["arrival"], a["size"], a["id"]) for a in case["airplanes"]]
-        runways = [Runway(r["service_time"], r["allowed_sizes"], r["id"]) for r in case["runways"]]
+            # Izveido Airplane un Runway objektus
+            airplanes = [Airplane(a["arrival"], a["size"], a["id"]) for a in case["airplanes"]]
+            runways = [Runway(r["service_time"], r["allowed_sizes"], r["id"]) for r in case["runways"]]
 
-        # Palaiž algrotimu un nosaka izpildes ilgumu
-        start = time.time()
-        best_solution, best_score = simulated_annealing(airplanes, runways)
-        end = time.time()
+            # Palaiž algrotimu un nosaka izpildes ilgumu
+            start = time.time()
+            best_solution, best_score = simulated_annealing(airplanes, runways)
+            end = time.time()
 
-        # Izdrukā labāko atrasto risinājumu
-        print("Labākais atrastais risinājums:")
-        schedule = simulated_schedule(best_solution, airplanes, runways)
-        for plane_id, (runway_id, start_time, end_time) in schedule.items():
-            arrival_str = to_time_str(airplanes[plane_id].arrival)
-            print(f"  Lidmašīna {plane_id} (ierašanās {arrival_str})"
-                  f" -> Skrejceļš {runway_id}, apkalpošana {to_time_str(start_time)}–{to_time_str(end_time)}")
+            # Izdrukā labāko atrasto risinājumu
+            print("Labākais atrastais risinājums:")
+            schedule = simulated_schedule(best_solution, airplanes, runways)
+            for plane_id, (runway_id, start_time, end_time) in schedule.items():
+                arrival_str = to_time_str(airplanes[plane_id].arrival)
+                print(f"  Lidmašīna {plane_id} (ierašanās {arrival_str})"
+                      f" -> Skrejceļš {runway_id}, apkalpošana {to_time_str(start_time)}–{to_time_str(end_time)}")
 
-        print("Kopējās izmaksas:", best_score)
-        print("Testa izpildes laiks (sek):", round(end - start, 4))
+            print("Kopējās izmaksas:", best_score)
+            print("Testa izpildes laiks (sek):", round(end - start, 4))
